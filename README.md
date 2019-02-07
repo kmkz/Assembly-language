@@ -1,5 +1,5 @@
 Assembly-language
 =================
 
-ASM x86 sources
+ASM x86 sources for exploit dev. purposes
 
